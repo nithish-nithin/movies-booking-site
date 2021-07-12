@@ -1,0 +1,41 @@
+ body{
+   background-image: url(./images/Remini20210602004820914.jpg);
+   margin: 0;
+   height: 0;
+ }
+ .btn{
+   background-color: rgb(209, 49, 49);
+   align-items: center;
+   text-align: center;
+   width: 30%;
+    font-size: 2rem;
+    height: 50px;
+    margin-top: 20rem;
+    margin-left: 30rem;
+    border-radius: 10px;
+    border: solid white;
+    color: white; 
+    cursor: pointer;
+    box-shadow: 2px 2px 2px 2px;
+ }
+ .modal{
+   position: absolute;
+   left: 40%;
+   right: 40%;
+   top: 20%;
+   width:200px;
+   background-color: rgb(255, 32, 32);
+   height: 300px;
+   color: white;
+   padding: 1rem;
+   display: none;
+   
+  
+
+   
+ }
+   #log{
+     background-color: red;
+     color: white;
+      margin-left: 50px;
+   }
